@@ -15,13 +15,14 @@ You must install .NET Runtime 10 x64 and then just run PrinterSwitch.exe
 
 
 
+## Statistics
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/PrinterSwitch-VBNET/total)
+
+
+
 ## Roadmap
 
-2026-03-24: use SetDefaultPrinter (winspool.drv) instead of rundll32 method
-
-2026-03-20: ICO: Printer Icon by Icojam https://www.iconarchive.com/show/onebit-4-icons-by-icojam/printer-icon.html
-
-2026-03-20: Project started
-
-## 
-
+* 2026-03-24: use SetDefaultPrinter (winspool.drv) instead of rundll32 method
+* 2026-03-20: ICO: Printer Icon by Icojam https://www.iconarchive.com/show/onebit-4-icons-by-icojam/printer-icon.html
+* 2026-03-20: Project started
